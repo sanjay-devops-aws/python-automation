@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+######################
+## Automation ########
+######################
+
+
 
 # takes two agrs: users (list) and user (string)
 def add_user(users, user):
