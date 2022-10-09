@@ -27,7 +27,14 @@ print_users(users)
 print('\n\n')
 input("press Enter to exit...")
 
+this is new file 
 
+
+# print users, passing users (list)
+print("***** print all users")
+print_users(users)
+print('\n\n')
+input("press Enter to exit...")
 
 
 
