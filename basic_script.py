@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+######################
+## Automation ########
+######################
+
+
 
 # takes two agrs: users (list) and user (string)
 def add_user(users, user):
@@ -27,7 +32,14 @@ print_users(users)
 print('\n\n')
 input("press Enter to exit...")
 
+this is new file 
 
+
+# print users, passing users (list)
+print("***** print all users")
+print_users(users)
+print('\n\n')
+input("press Enter to exit...")
 
 
 
