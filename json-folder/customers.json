@@ -1,0 +1,16 @@
+[
+  {
+    "customer_id": 1,
+	"customer_name": "Sanjay Nagdeote",
+	"customer_email": "sanjay.nagdeote@outlook.com"
+	"prov_state": "MH",
+	"country": "IN"
+  }' 
+  {
+    "customer_id": 1,
+	"customer_name": "Sanjay Nagdeote",
+	"customer_email": "sanjay.nagdeote@outlook.com"
+	"prov_state": "MH",
+	"country": "IN"
+  } 
+]
